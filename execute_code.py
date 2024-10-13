@@ -1,5 +1,5 @@
 '''
-Runs all code in Mapping folder.
+Runs all code in code folder.
 '''
 import os
 os.chdir("C:\\Users\\isaac\\OneDrive\\Desktop\\example_codes\\Mapping\\")
