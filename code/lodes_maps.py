@@ -11,7 +11,8 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 
 ###########################################################################################################################################################
-
+# MAP 1: We will create a map that shows the concentration of education jobs in Georgia
+###########################################################################################################################################################
 # Let's start by mapping job locations using get_lodes()
 ga_lodes_wac = (get_lodes(state = 'GA',
                           year = '2020',
@@ -78,7 +79,8 @@ r = pydeck.Deck(
 r.to_html('output\\ga_educational.html')
 
 ###########################################################################################################################################################
-
+# MAP 2: We will now create a map of commuting flows to Emory University
+###########################################################################################################################################################
 # Time to get some data on commuting flows:
 ga_lodes_od = (get_lodes(state = 'GA',
                           year = '2020',
