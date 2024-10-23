@@ -10,5 +10,5 @@ Each script in the ```code``` foler is meant to create different visualizations.
 
 ## In Progress
 - U.S. Department of Housing and Urban Development - Low Income Housing Tax Credit
-- Federal Financial Institutions Examination Council - Home Mortgage Disclosure Act (HMDA) Data
+- Consumer Financial Protection Bureau - Home Mortgage Disclosure Act (HMDA) Data
 - Federal Financial Institutions Examination Council - Community Reinvestment Act (CRA) Data
